@@ -1,0 +1,140 @@
+/* GENERAL */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+  font-family: arial,sans-serif;
+  
+}
+h1
+{
+    font-family: fantasy;
+    font-size: 40px;
+    color:rgba(0, 0, 0, 0.767);
+}
+h2{
+    font-size: 30px;
+    color: white;
+
+}
+h4 { 
+  font-size: 15px;
+}
+p{
+ line-height: 20px;
+ color: #777;
+}
+ul
+{
+    list-style: none;
+}
+.tt
+{
+    width: 940px;
+    margin: 0px auto;
+    padding: 0px 100px;
+}
+.ORANGE
+{
+    color: darkorange;
+}
+.clear{
+    clear:both;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* HEADER */
+header
+{
+    height: 120px;
+}
+header h1
+{
+    float: left;
+    margin-top: 32PX;
+}
+header nav
+{
+    float: right;
+    margin-top: 40px;
+}
+header nav ul li{
+    display: inline-block;
+    float: left;
+}
+header nav ul li a{
+    margin-right: 20px;
+    font-weight: bold;
+    text-transform: uppercase 
+
+}
+  
+/* ETAPE */
+#etape{
+    height: 350px;
+    background: url(arhitektura-ejfeleva_bashnya-parizh-pejzazh-reka-21862.jpg) center;
+}
+#etape h2 {
+    font-weight: normal;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -15px; 
+    padding: 100px 0 50px 0 ;
+}
+.button-1{
+    display: block;
+    width: 60px;
+    height: 40px;
+    background: darkorange;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 30px;
+    text-align: center;
+}
+.button-1:hover {
+    background: blue;
+}
+/* etapep */
+#etapep ul{
+    margin: 80px 0;
+
+}
+#etapep ul li{
+    float: left;
+   width: 300px ;
+   padding-top: 200px;
+   text-align: center;
+   margin-right: 10px;
+}
+#etapep h4{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#etapep p{
+   margin-bottom: 20px;
+}
+#fond1{
+    background: url(venise_2.jpg) no-repeat top center;
+}
+#fond2{
+    background: url(londres-guia.jpg) no-repeat top center;
+}
+#fond3{
+    background: url(venise_4.jpg) no-repeat top center;
+}
+#SPAN{
+    margin: auto;
+    padding: auto;   
+}
+#PARTICIP{
+    margin: 500px
+    text-align: center;
+
+}

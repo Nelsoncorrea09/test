@@ -1,0 +1,115 @@
+#menu{
+    position: relative;
+    width: 100%;
+    height:30px;
+    margin-bottom: 0px;
+}
+#menu ul{
+    float: left;
+}
+#menu ul li{
+    float: left;
+    margin-left: 60px;
+    list-style-type: none;
+}
+#menu ul li a{
+    text-decoration: none;
+    font-size: medium;
+    color:rgb(11, 13, 121);
+    font-weight: 800;
+}
+#menu ul li a:visited{
+    color:black:
+}
+#menu ul li a:hover{
+    color:black;
+}
+#menu ul li a:active{
+    color:white;
+}
+#imga{
+    width:50%;
+}
+.alignleft{
+    float: left;
+}
+p.intro{
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    background-color: cadetblue;
+    color:white;
+}
+#img{
+    width: 100%;
+    height: 400px;
+} 
+p{
+    font-size: x-large;
+    color: darkcyan;
+    font-weight: 600;
+}
+#elysée{
+    width: 100%;
+    height: 700px;
+}
+#visite{
+    width: 50%;
+    height: 700px;
+}
+#seine{
+    width: 50%;
+    height: 700px;
+}
+#vue-sur{
+    width: 100%;
+    height: 700px;
+}
+.seine{
+    font-size: x-large;
+    text-align: center;
+}
+#louvre{
+    width: 100%;
+    height: 800px;
+}
+.pyramidal{
+    text-align: center;
+}
+#land,#disney,#dis,#log{
+    padding: 0px;
+    margin: 0px;
+    width: 50%;
+    height: 300px;
+}
+#vers,#vers1{
+    padding: 0px;
+    margin: 0px;
+    width: 50%;
+    height: 300px;
+}
+#chateau{
+    width: 100%;
+    height: 500px;
+}
+#footer{
+    height: 500px;
+    margin-top: 100px;
+}
+#footer p{
+    text-align: center;
+    font-size: 500;
+}
+#footer img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    height: 400px;
+}
+
+
